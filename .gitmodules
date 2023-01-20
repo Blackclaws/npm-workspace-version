@@ -1,0 +1,4 @@
+[submodule "lodash"]
+	path = lodash
+	url = https://github.com/lodash/lodash
+	branch = 4.7.0
